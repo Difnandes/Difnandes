@@ -2,5 +2,5 @@
 
 - 💻 Praticando com Python, Java Script, CSS, HTML, SQL, Django, Rest API.
 - ✅    Estudando: Python, SQL, Django, JS, HTML, CSS, Rest API.                        
-- 📫 Contate-me no email: difnandes07@gmail.com / difnandes@yahoo.com.br
+- 📫 Contate-me no email: difnandes@yahoo.com.br
 - Pronouns: ele/dele
